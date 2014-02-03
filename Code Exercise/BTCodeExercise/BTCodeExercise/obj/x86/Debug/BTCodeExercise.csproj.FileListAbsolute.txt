@@ -1,0 +1,5 @@
+c:\users\gavin\documents\visual studio 2010\Projects\BTCodeExercise\BTCodeExercise\bin\Debug\BTCodeExercise.exe
+c:\users\gavin\documents\visual studio 2010\Projects\BTCodeExercise\BTCodeExercise\bin\Debug\BTCodeExercise.pdb
+c:\users\gavin\documents\visual studio 2010\Projects\BTCodeExercise\BTCodeExercise\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\gavin\documents\visual studio 2010\Projects\BTCodeExercise\BTCodeExercise\obj\x86\Debug\BTCodeExercise.exe
+c:\users\gavin\documents\visual studio 2010\Projects\BTCodeExercise\BTCodeExercise\obj\x86\Debug\BTCodeExercise.pdb

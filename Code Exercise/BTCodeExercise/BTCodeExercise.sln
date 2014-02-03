@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTCodeExercise", "BTCodeExercise\BTCodeExercise.csproj", "{71F0C36D-E851-49C3-AC61-28FAF979203F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71F0C36D-E851-49C3-AC61-28FAF979203F}.Debug|x86.ActiveCfg = Debug|x86
+		{71F0C36D-E851-49C3-AC61-28FAF979203F}.Debug|x86.Build.0 = Debug|x86
+		{71F0C36D-E851-49C3-AC61-28FAF979203F}.Release|x86.ActiveCfg = Release|x86
+		{71F0C36D-E851-49C3-AC61-28FAF979203F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
